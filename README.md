@@ -26,7 +26,7 @@
 ##
 
 # JANGAN BINGUNG BUAT DEPLOY!
-[![Deploy](https://telegra.ph/file/62adc50a87f4019476177.jpg)](https://heroku.com/deploy?template=https://github.com/ramadhani892/RAM-UBOT.git)
+[![Deploy](https://telegra.ph/file/8ac09e291edfc3b20178c.jpg)](https://heroku.com/deploy?template=https://github.com/ramadhani892/RAM-UBOT.git)
 
 
 <h3 align="center">REPO JACK-BOT DIBUAT HANYA UNTUK BERSENANG SENANG.</h3>
