@@ -21,8 +21,8 @@
 
 ## JOIN DULU TOT!!:
 
-<a href="https://t.me/ramubotinfo"><img src="https://img.shields.io/badge/Channel-%20RAM UBOT-black.svg?style=for-the-badge&logo=Telegram"></a>
-<a href="https://t.me/teman_random"><img src="https://img.shields.io/badge/Join-TEMAN%20RANDOM-purple.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/racauanhatii"><img src="https://img.shields.io/badge/Channel-%20RACAUAN HATI-black.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/temanesiaonline"><img src="https://img.shields.io/badge/Join-TEMANESIA%20ONLINE-purple.svg?style=for-the-badge&logo=Telegram"></a>
 ##
 
 # JANGAN BINGUNG BUAT DEPLOY!
