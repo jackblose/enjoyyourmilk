@@ -1,12 +1,12 @@
-<a href="https://www.instagram.com/ramadh20?r=nametag"><img src="https://images.cooltext.com/5519646.png" width="516" height="211" alt="  RAM-UBOT" /></a>
+<a href="https://www.instagram.com/muhammadwaly_?r=nametag"><img src="https://images.cooltext.com/5519646.png" width="516" height="211" alt="  RAM-UBOT" /></a>
 
 <p align="center">
-  <a href="https://github.com/ramadhani892/RAM-UBOT/fork">
-    <img src="https://img.shields.io/github/forks/ramadhani892/RAM-UBOT?label=Fork&style=social">
+  <a href="https://github.com/muhammadwaly_/JACK-BOT/fork">
+    <img src="https://img.shields.io/github/forks/jakblose/JACK-BOT?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/ramadhani892/RAM-UBOT">
-    <img src="https://img.shields.io/github/stars/ramadhani892/RAM-UBOT?style=social">
+  <a href="https://github.com/jackblose/JACK-BOT">
+    <img src="https://img.shields.io/github/stars/jackblose/JACK-BOT?style=social">
   </a>
 </p>  
 
