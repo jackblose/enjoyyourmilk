@@ -54,6 +54,7 @@
 ## Credit
 TERIMAKASIH UNTUK
 
+*   [RAMA](https://github.com/ramadhani892) - ⚡Geez-Userbot⚡
 *   [VICKY](https://github.com/vckyou) - ⚡Geez-Userbot⚡
 *   [RaphielGang](https://github.com/RaphielGang) - Telegram-Paperplane
 *   [AvinashReddy3108](https://github.com/AvinashReddy3108) - PaperplaneExtended
