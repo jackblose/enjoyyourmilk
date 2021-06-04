@@ -1,4 +1,4 @@
-<a href="https://www.instagram.com/muhammadwaly_?r=nametag"><img src="https://images.cooltext.com/5519646.png" width="516" height="211" alt="  JACK-BOT" /></a>
+<a href="https://www.instagram.com/muhammadwaly_?r=nametag">JACK-BOT </a>
 
 <p align="center">
   <a href="https://github.com/muhammadwaly_/JACK-BOT/fork">
