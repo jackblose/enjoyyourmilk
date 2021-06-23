@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://github.com/muhammadwaly_/JACK-BOT/fork">
-    <img src="https://img.shields.io/github/forks/jakblose/JACK-BOT?label=Fork&style=social">
+  <a href="https://github.com/muhammadwaly_/JACK-BOT">
+    <img src="https://telegra.ph/file/b07eb1ae6d878b1b57229.jpg">
     
   </a>
   <a href="https://github.com/jackblose/JACK-BOT">
