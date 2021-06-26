@@ -8,8 +8,8 @@
   </a>
 </p>  
 
-## Tuan Tanah: Waly
-[<img src="https://media0.giphy.com/media/ya4eevXU490Iw/giphy.gif">](https://t.me/enjoyyourmilk)
+## Developer: Waly
+[<img src="https://www.gambaranimasi.org/data/media/781/animasi-bergerak-bendera-indonesia-0012.gif">](https://t.me/enjoyyourmilk)
 ##
 ##
 # KALO FORK KASIH BINTANG YA 
