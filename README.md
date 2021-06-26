@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/muhammadwaly_/JACK-BOT">
-    <img src="https://telegra.ph/file/b07eb1ae6d878b1b57229.jpg">
+    <img src="https://telegra.ph/file/4861edcc6e964216dd59d.jpg">
     
   </a>
   <a href="https://github.com/jackblose/JACK-BOT">
